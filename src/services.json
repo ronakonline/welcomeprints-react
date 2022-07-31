@@ -1,0 +1,52 @@
+[
+   {
+      "id": 1,
+      "title": "Printed Fabrics",
+      "subtitle": "Used in making printed shirts, suits ",
+      "mainImg": "services-01-768x512.jpg",
+      "bannerImg" : "services-01-1200x800.jpg",
+      "subCategories": [{
+         "title": "Cotton Prints",
+         "images": ["/images/fabrics/cotton.jpeg","/images/fabrics/cotton1.jpeg"]
+      },{
+         "title": "Rayon Printed",
+         "images": ["/images/fabrics/rayon.jpeg","/images/fabrics/rayon1.jpeg"]
+      },{
+         "title": "Poplin Printed",
+         "images": ["/images/fabrics/poplin.jpeg","/images/single-img-11.jpg"]
+      }]
+   },
+   {
+      "id": 2,
+      "title": "Dyed Fabrics",
+      "subtitle": "Used in making plain shirts and suits.",
+      "mainImg": "services-02-768x512.jpg",
+       "bannerImg" : "services-01-1200x800.jpg",
+      "subCategories": [{
+         "title": "Hoisery Dyed",
+         "images": ["/images/dyed/dyed.jpeg","/images/dyed/dyed1.jpeg"]
+      }]
+   },
+   {
+      "id": 3,
+      "title": "Denim Fabrics",
+      "subtitle": "Used in making denim shirts and denim jeans.",
+      "mainImg": "services-03-768x512.jpg",
+       "bannerImg" : "services-01-1200x800.jpg",
+      "subCategories": [{
+         "title": "Cotton Denim",
+         "images": ["/images/deniem/deniem.jpeg","/images/deniem/deniem1.jpeg"]
+      }]
+   },
+   {
+      "id": 4,
+      "title": "Hosiery Fabrics",
+      "subtitle": "Used in making of t-shirts and gents &amp; ladies nightwear",
+      "mainImg": "services-04-768x512.jpg",
+       "bannerImg" : "services-01-1200x800.jpg",
+      "subCategories": [{
+         "title": "Hosiery Prints",
+         "images": ["/images/printed/printed.jpeg","/images/printed/printed1.jpeg","/images/printed/printed2.jpeg"]
+      }]
+   }
+]
